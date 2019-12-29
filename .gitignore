@@ -15,7 +15,6 @@ local.properties
 .loadpath
 .recommenders
 *.csv
-*.png
 venv/
 
 .ipynb_checkpoints/
